@@ -1,8 +1,19 @@
 # 📚 Book Recommender System
 
-A simple machine learning project that recommends books based on user preferences. Built with Python and Streamlit.
+This project is a Book Recommender System built using machine learning and cosine similarity-based K-Nearest Neighbors (KNN) algorithm. The system recommends similar books to the user based on a selected book using collaborative filtering techniques. It is deployed with a Streamlit interface and can be easily accessed through a web browser.
 
----
+### 🔍 Features
+
+Recommends books based on user ratings.
+
+Uses KNN with cosine similarity to find similar books.
+
+Interactive and clean Streamlit UI for easy access.
+
+Displays book cover images with clickable links to Google search.
+
+Model trained using a sparse pivot matrix for efficiency.
+
 
 ## 🔍 What It Does
 
@@ -60,6 +71,8 @@ The system is trained on a dataset that includes:
 -Streamlit
 
 -Pickle
+
+-Heroku
 
 ### 📞 Contact
 
