@@ -2,7 +2,7 @@
 
 This project is a Book Recommender System built using machine learning and cosine similarity-based K-Nearest Neighbors (KNN) algorithm. The system recommends similar books to the user based on a selected book using collaborative filtering techniques. It is deployed with a Streamlit interface and can be easily accessed through a web browser.
 
-### 🔍 Features
+## 🔍 Features
 
 Recommends books based on user ratings.
 
@@ -24,9 +24,9 @@ Model trained using a sparse pivot matrix for efficiency.
 
 
   ![image](https://github.com/user-attachments/assets/a2cdc9cd-d858-488c-8765-b480df8a3094)
-  ## 🚀 How to Use
+## 🚀 How to Use
 
-### 1. Clone the Project
+1. Clone the Project
 
 git clone https://github.com/haidaralithaheem/book-recommender.git
 
@@ -44,13 +44,13 @@ Open http://localhost:8501 in your browser.
 
 
 
-### 🌐 Live Demo
+## 🌐 Live Demo
 
 Try the app here:
 
 https://book-recomender-ae18baf14e53.herokuapp.com/
 
-### 📁 Dataset link: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset/data
+## 📁 Dataset link: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset/data
 
 The system is trained on a dataset that includes:
 
@@ -60,7 +60,7 @@ The system is trained on a dataset that includes:
 
 -users.csv — User demographic data
 
-### 🛠 Tools Used
+## 🛠 Tools Used
 
 -Python
 
@@ -74,7 +74,7 @@ The system is trained on a dataset that includes:
 
 -Heroku
 
-### 📞 Contact
+## 📞 Contact
 
 Haidar Ali Thaheem
 
