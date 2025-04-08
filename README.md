@@ -18,17 +18,25 @@ A simple machine learning project that recommends books based on user preference
 ### 1. Clone the Project
 
 git clone https://github.com/haidaralithaheem/book-recommender.git
+
 cd book-recommender
+
 2. Install Dependencies
+
 pip install -r requirements.txt
+
 3. Run the App
+   
 streamlit run app.py
+
 Open http://localhost:8501 in your browser.
 
 
 
 ### 🌐 Live Demo
+
 Try the app here:
+
 https://book-recomender-ae18baf14e53.herokuapp.com/
 
 ### 📁 Dataset link: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset/data
@@ -36,18 +44,27 @@ https://book-recomender-ae18baf14e53.herokuapp.com/
 The system is trained on a dataset that includes:
 
 -books.csv — Book details (title, author, image URL)
+
 -ratings.csv — User ratings for books
+
 -users.csv — User demographic data
 
 ### 🛠 Tools Used
+
 -Python
+
 -Pandas, NumPy
+
 -Scikit-learn (KNN)
+
 -Streamlit
+
 -Pickle
 
 ### 📞 Contact
+
 Haidar Ali Thaheem
+
 📧 haidaralithaheem111@gmail.com
 
 
